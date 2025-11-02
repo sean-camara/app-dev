@@ -26,7 +26,7 @@ Welcome to my list of all-time favorites! These stories have amazing world-build
 
 ## 🐉 House of the Dragon
 
-![House of the Dragon](https://upload.wikimedia.org/wikipedia/en/a/a3/House_of_the_Dragon_Title_Card.jpg)
+![House of the Dragon](https://m.media-amazon.com/images/M/MV5BN2I4ZGE5OTAtOTgzOC00NmE1LWFjZjAtNmJkZjY2MGM3NzI2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg)
 
 **Genre:** Fantasy, Drama  
 **Based on:** *Fire & Blood* by George R. R. Martin  
@@ -45,7 +45,7 @@ It’s set about *200 years before* the events of *Game of Thrones.*
 
 ## 🌊 Avatar: The Way of Water (2022)
 
-![Avatar: The Way of Water](https://upload.wikimedia.org/wikipedia/en/6/60/Avatar_-_The_Way_of_Water_poster.jpg)
+![Avatar: The Way of Water](https://m.media-amazon.com/images/M/MV5BNzE1NjljNmMtMTNkMy00ZjkwLThjZTctZDVjZTBlNTg0MmNlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg)
 
 **Genre:** Sci-Fi, Adventure  
 **Directed by:** James Cameron  
@@ -79,3 +79,4 @@ It took over a decade to make this sequel because of the new underwater motion c
 
 **💬 Comment:**  
 Each of these worlds teaches something unique — power, family, and balance with nature. 🌏
+
