@@ -1,6 +1,3 @@
-# app-dev
-My first repository
-
 # 🎬 My Favorite Series and Movies
 
 Welcome to my list of all-time favorites! These stories have amazing world-building, strong characters, and unforgettable moments.
