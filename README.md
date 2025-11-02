@@ -45,7 +45,7 @@ It’s set about *200 years before* the events of *Game of Thrones.*
 
 ## 🌊 Avatar (2009)
 
-![Avatar](https://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg)
+![Avatar](https://upload.wikimedia.org/wikipedia/en/8/85/Avatar-Teaser-Poster.jpg)
 
 **Genre:** Sci-Fi, Adventure  
 **Directed by:** James Cameron  
